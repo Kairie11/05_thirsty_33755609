@@ -51,4 +51,4 @@ Age
 Preferred drink category (radio button selection)
 Student status (checkbox)
 
-Survey responses are displayed on a results page
+Survey responses are displayed on a results page made for it 
